@@ -1,0 +1,21 @@
+#chart {
+    width: 700px;
+    height: 405px;
+    background-color: #999;
+}
+
+div.tip-hill-div {
+    background: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Microsoft Yahei;
+}
+
+div.tip-hill-div > h1 {
+    font-size: 14px;
+}
+
+div.tip-hill-div > h2 {
+    font-size: 12px;
+}
